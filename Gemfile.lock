@@ -136,7 +136,7 @@ GEM
       net-ssh (~> 2.2.2)
     wmi-lite (1.0.2)
     yajl-ruby (1.1.0)
-    yard (0.9.20)
+    yard (0.9.36)
 
 PLATFORMS
   ruby
